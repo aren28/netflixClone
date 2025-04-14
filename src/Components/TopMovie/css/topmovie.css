@@ -1,0 +1,7 @@
+.svg-icon {
+  width: 15rem;
+  height: 15rem;
+  position: absolute;
+  left: 10px;
+  z-index: -1;
+}
